@@ -7,7 +7,8 @@
 * Waar lopen de wandelroutes door Nederland?  
 * Welke parkeerplaatsen liggen dichtbij wandelroutes?  
 * Bij welke parkeerplaatsen moet je betalen tijdens het wandelen?  
-* Bij welke parkeerplaatsen kunnen er invaliden mee met de wandeling?
+* Bij welke parkeerplaatsen kunnen er invaliden mee met de wandeling?  
+* Bij welke parkeerplaatsen kan de elktische auto worden opgeladen?  
 * Bij welke wandelroutes is de lucht het schoonst?  
 
 ## Datasets
