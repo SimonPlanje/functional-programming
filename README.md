@@ -11,7 +11,7 @@ Bij [Survey-Data](https://github.com/SimonPlanje/functional-programming/tree/mai
 
 ### RDW-data
 
-Bij [RDW-data](https://github.com/SimonPlanje/functional-programming/tree/main/RDW-Data) ga ik meer in op het daadwerkelijk visualiseren van de data van de RDW dataset. Hiervoor moet de data eerst worden ingeladen via een API en de juiste kolommen moeten worden schoon gemaakt, om vervolgens met d3 hier de eerste visualisaties te gaan maken. Deze opdracht is vanuit de volkskrantn en hiervoor heb ik de volgende onderzoeksvraag opgesteld. 
+Bij [RDW-data](https://github.com/SimonPlanje/functional-programming/tree/main/RDW-Data) ga ik meer in op het daadwerkelijk visualiseren van de data  uit de RDW dataset. Hiervoor moet de data eerst worden ingeladen via een API en de juiste kolommen moeten worden schoon gemaakt, om vervolgens met d3 hier de eerste visualisaties te gaan maken. Deze opdracht is vanuit de volkskrantn en hiervoor heb ik de volgende onderzoeksvraag opgesteld. 
 
 ## Onderzoeksvraag
 >**Waar in Nederland kan het best worden geparkeerd om direct bij een wandel- of fietsroute uit te komen?**  
